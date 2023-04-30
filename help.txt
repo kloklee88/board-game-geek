@@ -1,4 +1,4 @@
 Commands:
 **!geek about** -- bot description
-**!geek @mention** -- where @mention is anybody in the server to view board game rankings
+**!geek rankings** -- will show game rankings for users
 **!geek collection** -- will show entire and current board game collection

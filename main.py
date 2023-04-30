@@ -32,15 +32,19 @@ async def on_message(message):
     print(full_command)
     if len(full_command) == 2:
       first_command = full_command[1]
-      if first_command.startswith('<@!'):
-        await message.channel.send(
-          geek_service.get_rankings(message.mentions[0]))
-      elif first_command == 'about':
+      if first_command == 'about':
         await message.channel.send(about())
       elif first_command == 'help':
         await message.channel.send(geek_service.get_help())
       elif first_command == 'collection':
         await message.channel.send(geek_service.get_collection())
+      elif first_command == 'rankings':
+        await message.channel.send(geek_service.get_rankings())
+    elif len(full_command) == 3:
+      first_command = full_command[1]
+      if first_command.startswith('lookup'):
+        second_command = full_command[2]
+        await message.channel.send(geek_service.lookup_game(second_command))
 
 
 def about():
