@@ -2,3 +2,4 @@ Commands:
 **!geek about** -- bot description
 **!geek rankings** -- will show game rankings for users
 **!geek collection** -- will show entire and current board game collection
+**!random [#]** -- will randomly chooose a game, can add optionally parameter for number of players

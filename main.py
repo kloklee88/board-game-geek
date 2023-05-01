@@ -45,6 +45,14 @@ async def on_message(message):
       if first_command.startswith('lookup'):
         second_command = full_command[2]
         await message.channel.send(geek_service.lookup_game(second_command))
+        
+  if message.content.startswith('!random'):
+    print(full_command)
+    if len(full_command) == 2:
+      player_count = full_command[1]
+      await message.channel.send(geek_service.random_game(player_count))
+    else:
+      await message.channel.send(geek_service.random_game(100))
 
 
 def about():
