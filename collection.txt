@@ -47,5 +47,4 @@ Banned Word | 100 | https://boardgamegeek.com/boardgame/233194/banned-words
 Say Anything | 8 | https://boardgamegeek.com/boardgame/33604/say-anything
 Imperial Settlers | 4 | https://boardgamegeek.com/boardgame/154203/imperial-settlers
 Sheriff of Nottingham | 5 | https://boardgamegeek.com/boardgame/157969/sheriff-nottingham
-Champions of Midgard | 5 | https://boardgamegeek.com/boardgame/172287/champions-midgard
 The Others | 10 | https://boardgamegeek.com/boardgame/172047/others
