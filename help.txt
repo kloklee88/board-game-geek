@@ -2,4 +2,5 @@ Commands:
 **!geek about** -- bot description
 **!geek rankings** -- will show game rankings for users
 **!geek collection** -- will show entire and current board game collection
+**!geek lookup [game]** -- will show provide details on specific games that match the name in the collection
 **!random [#]** -- will randomly chooose a game, can add optional parameter for number of players and will filter games out accordingly

@@ -11,7 +11,6 @@ def get_rankings():
   print(ranking_display)
   return ranking_display
 
-
 def get_collection():
   collection = ''
   with open('collection.txt') as message_text:
@@ -20,14 +19,16 @@ def get_collection():
       collection += game + '\n'
   return collection
 
-
 def lookup_game(game_name):
-  game_detail = 'Game not found'
+  game_detail = ''
+  print(game_name)
   with open('collection.txt') as message_text:
     for line in message_text:
       game = line.split('|')[0].strip()
-      if game in game_name.lower():
-        game_detail = line.split('|')[1].strip()
+      if game_name.lower() in game.lower():
+        game_detail += line.split('|')[0] + " | Max Players: " + line.split('|')[1] + " | " + line.split('|')[2] + "\n"
+  if game_detail == '':
+    return 'Game not Found'
   return game_detail
 
 def random_game(player_count):
@@ -41,7 +42,6 @@ def random_game(player_count):
         collection.append(game)
   print(collection)
   return random.choice(collection)
-
 
 def get_help():
   f = open('help.txt')

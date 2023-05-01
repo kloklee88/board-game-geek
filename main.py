@@ -56,7 +56,7 @@ async def on_message(message):
 
 
 def about():
-  return "A dedicated Discord bot for He's a Board Game Group server for everything, anything, and nothing :smile:"
+  return "A dedicated Discord bot for Board Game Group server for a great time :smile:"
 
 
 client.run(os.getenv('TOKEN'))
