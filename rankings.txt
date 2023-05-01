@@ -1,5 +1,5 @@
 Not Today;Imhotep,Five Tribes,Champions
 Zenavi;Codenames,Dominion,Champions,Imperial Settlers,Century Spice Roads
 UnBr0ken;Champions,Sherriff,Blood Rage
-Confucius,Secret Hitler,Werewords,Dixit,Codenames,Carcassonne,The Others,Smash Up,The Mind,No Thanks,Race for the Galaxy/Century Spice Roads
+Confucius;Secret Hitler,Werewords,Dixit,Codenames,Carcassonne,The Others,Smash Up,The Mind,No Thanks,Race for the Galaxy/Century Spice Roads
 evp266;Secret Hitler,Dixit,Munchkin,Sequence,Smashup,Sushi Go

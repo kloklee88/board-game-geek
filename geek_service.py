@@ -2,9 +2,9 @@ def get_rankings():
   ranking_display = ''
   with open('rankings.txt') as message_text:
     for line in message_text:
-      game_ranking = line.replace("\n", " ").strip()
-      username = game_ranking.split(';')[0]
-      rankings = game_ranking.split(';')[1]
+      split_line = line.split(';')
+      username = split_line[0]
+      rankings = split_line[1]
       ranking_display += '**' + username + '**\n' + rankings
   print(ranking_display)
   return ranking_display
