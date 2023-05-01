@@ -34,9 +34,12 @@ def random_game(player_count):
   collection = []
   with open('collection.txt') as message_text:
     for line in message_text:
-      game = line.replace("\n", " ").strip().split('|')[0]
-      #add logic to filter out games by max players and add to collection.txt
-      collection.append(game)
+      clean_line = line.replace("\n", " ").strip()
+      game = clean_line.split('|')[0]
+      max_player = clean_line.split('|')[1].strip()
+      if int(max_player) > int(player_count):
+        collection.append(game)
+  print(collection)
   return random.choice(collection)
 
 

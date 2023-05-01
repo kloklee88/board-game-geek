@@ -52,7 +52,7 @@ async def on_message(message):
       player_count = full_command[1]
       await message.channel.send(geek_service.random_game(player_count))
     else:
-      await message.channel.send(geek_service.random_game(100))
+      await message.channel.send(geek_service.random_game(0))
 
 
 def about():

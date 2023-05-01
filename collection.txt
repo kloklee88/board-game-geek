@@ -1,51 +1,51 @@
-Spyfall | https://boardgamegeek.com/boardgame/166384/spyfall
-Kingdomino | https://boardgamegeek.com/boardgame/204583/kingdomino
-Onitama | https://boardgamegeek.com/boardgame/160477/onitama
-7 Wonders | https://boardgamegeek.com/boardgame/68448/7-wonders
-7 Wonders Duel | https://boardgamegeek.com/boardgame/173346/7-wonders-duel
-Innovation | https://boardgamegeek.com/boardgame/63888/innovation
-Biblios | https://boardgamegeek.com/boardgame/34219/biblios
-Two Rooms and a Boom | https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom
-Avalon | https://boardgamegeek.com/boardgame/128882/resistance-avalon
-For Sale | https://boardgamegeek.com/boardgame/172/sale
-Codenames | https://boardgamegeek.com/boardgame/178900/codenames
-Brutal Kingdom | https://boardgamegeek.com/boardgame/203405/brutal-kingdom
-Coup | https://boardgamegeek.com/boardgame/131357/coup
-No Thanks | https://boardgamegeek.com/boardgame/12942/no-thanks
-Secret Hitler | https://boardgamegeek.com/boardgame/188834/secret-hitler
-Mysterium | https://boardgamegeek.com/boardgame/181304/mysterium
-Munchkin | https://boardgamegeek.com/boardgame/1927/munchkin
-Imhotep | https://boardgamegeek.com/boardgame/191862/imhotep
-Dominion | https://boardgamegeek.com/boardgame/36218/dominion
-Five Tribes | https://boardgamegeek.com/boardgame/157354/five-tribes
-Champions of Midgard | https://boardgamegeek.com/boardgame/172287/champions-midgard
-Lanterns | https://boardgamegeek.com/boardgame/160851/lanterns-harvest-festival
-Race for the Galaxy | https://boardgamegeek.com/boardgame/28143/race-galaxy
-Century Spice Roads | https://boardgamegeek.com/boardgame/209685/century-spice-road
-The Mind | https://boardgamegeek.com/boardgame/244992/mind
-Love Letter | https://boardgamegeek.com/boardgame/129622/love-letter
-Sushi Go! | https://boardgamegeek.com/boardgame/133473/sushi-go
-Loot N Run | https://boardgamegeek.com/boardgame/185374/loot-n-run
-One Night Werewolf | https://boardgamegeek.com/boardgame/142503/one-night-werewolf
-Werewords | https://boardgamegeek.com/boardgame/219215/werewords
-The Godfather | https://boardgamegeek.com/boardgame/195539/godfather-corleones-empire
-Azul | https://boardgamegeek.com/boardgame/230802/azul
-Smash Up | https://boardgamegeek.com/boardgame/122522/smash
-Stockpile | https://boardgamegeek.com/boardgame/161614/stockpile
-Tsuro | https://boardgamegeek.com/boardgame/16992/tsuro
-Louyang | https://boardgamegeek.com/boardgame/39683/gates-loyang
-Quacks of Quedlinburg | https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg
-New York Slice | https://boardgamegeek.com/boardgame/208895/new-york-slice
-Medici | https://boardgamegeek.com/boardgame/46/medici
-Dixit | https://boardgamegeek.com/boardgame/39856/dixit
-Captain Sonar | https://boardgamegeek.com/boardgame/171131/captain-sonar
-Sequence | https://boardgamegeek.com/boardgame/2375/sequence
-Carcassonne | https://boardgamegeek.com/boardgame/822/carcassonne
-Ticket to Ride | https://boardgamegeek.com/boardgame/9209/ticket-ride
-Settlers of Catan | https://boardgamegeek.com/boardgame/13/catan
-Banned Word | https://boardgamegeek.com/boardgame/233194/banned-words
-Say Anything | https://boardgamegeek.com/boardgame/33604/say-anything
-Imperial Settlers | https://boardgamegeek.com/boardgame/154203/imperial-settlers
-Sheriff of Nottingham | https://boardgamegeek.com/boardgame/157969/sheriff-nottingham
-Champions of Midgard | https://boardgamegeek.com/boardgame/172287/champions-midgard
-The Others | https://boardgamegeek.com/boardgame/172047/others
+Spyfall | 8 | https://boardgamegeek.com/boardgame/166384/spyfall
+Kingdomino | 4 |  https://boardgamegeek.com/boardgame/204583/kingdomino
+Onitama | 2 | https://boardgamegeek.com/boardgame/160477/onitama
+7 Wonders | 7 | https://boardgamegeek.com/boardgame/68448/7-wonders
+7 Wonders Duel | 2 | https://boardgamegeek.com/boardgame/173346/7-wonders-duel
+Innovation | 4 | https://boardgamegeek.com/boardgame/63888/innovation
+Biblios | 4 | https://boardgamegeek.com/boardgame/34219/biblios
+Two Rooms and a Boom | 100 | https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom
+Avalon | 10 | https://boardgamegeek.com/boardgame/128882/resistance-avalon
+For Sale | 6 | https://boardgamegeek.com/boardgame/172/sale
+Codenames | 10 | https://boardgamegeek.com/boardgame/178900/codenames
+Brutal Kingdom | 4 | https://boardgamegeek.com/boardgame/203405/brutal-kingdom
+Coup | 6 | https://boardgamegeek.com/boardgame/131357/coup
+No Thanks | 7 | https://boardgamegeek.com/boardgame/12942/no-thanks
+Secret Hitler | 10 | https://boardgamegeek.com/boardgame/188834/secret-hitler
+Mysterium | 7 | https://boardgamegeek.com/boardgame/181304/mysterium
+Munchkin | 6 | https://boardgamegeek.com/boardgame/1927/munchkin
+Imhotep | 4 | https://boardgamegeek.com/boardgame/191862/imhotep
+Dominion | 4 | https://boardgamegeek.com/boardgame/36218/dominion
+Five Tribes | 4 | https://boardgamegeek.com/boardgame/157354/five-tribes
+Champions of Midgard | 5 | https://boardgamegeek.com/boardgame/172287/champions-midgard
+Lanterns | 4 | https://boardgamegeek.com/boardgame/160851/lanterns-harvest-festival
+Race for the Galaxy | 4 | https://boardgamegeek.com/boardgame/28143/race-galaxy
+Century Spice Roads | 5 | https://boardgamegeek.com/boardgame/209685/century-spice-road
+The Mind | 10 | https://boardgamegeek.com/boardgame/244992/mind
+Love Letter | 4 | https://boardgamegeek.com/boardgame/129622/love-letter
+Sushi Go! | 5 | https://boardgamegeek.com/boardgame/133473/sushi-go
+Loot N Run | 6 | https://boardgamegeek.com/boardgame/185374/loot-n-run
+One Night Werewolf | 100 | https://boardgamegeek.com/boardgame/142503/one-night-werewolf
+Werewords | 10 | https://boardgamegeek.com/boardgame/219215/werewords
+The Godfather | 5 | https://boardgamegeek.com/boardgame/195539/godfather-corleones-empire
+Azul | 4 | https://boardgamegeek.com/boardgame/230802/azul
+Smash Up | 4 | https://boardgamegeek.com/boardgame/122522/smash
+Stockpile | 5 | https://boardgamegeek.com/boardgame/161614/stockpile
+Tsuro | 6 | https://boardgamegeek.com/boardgame/16992/tsuro
+Louyang | 4 | https://boardgamegeek.com/boardgame/39683/gates-loyang
+Quacks of Quedlinburg | 5 | https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg
+New York Slice | 6 | https://boardgamegeek.com/boardgame/208895/new-york-slice
+Medici | 6 | https://boardgamegeek.com/boardgame/46/medici
+Dixit | 8 | https://boardgamegeek.com/boardgame/39856/dixit
+Captain Sonar | 8 | https://boardgamegeek.com/boardgame/171131/captain-sonar
+Sequence | 6 | https://boardgamegeek.com/boardgame/2375/sequence
+Carcassonne | 5 | https://boardgamegeek.com/boardgame/822/carcassonne
+Ticket to Ride | 4 | https://boardgamegeek.com/boardgame/9209/ticket-ride
+Settlers of Catan | 4 | https://boardgamegeek.com/boardgame/13/catan
+Banned Word | 100 | https://boardgamegeek.com/boardgame/233194/banned-words
+Say Anything | 8 | https://boardgamegeek.com/boardgame/33604/say-anything
+Imperial Settlers | 4 | https://boardgamegeek.com/boardgame/154203/imperial-settlers
+Sheriff of Nottingham | 5 | https://boardgamegeek.com/boardgame/157969/sheriff-nottingham
+Champions of Midgard | 5 | https://boardgamegeek.com/boardgame/172287/champions-midgard
+The Others | 10 | https://boardgamegeek.com/boardgame/172047/others
